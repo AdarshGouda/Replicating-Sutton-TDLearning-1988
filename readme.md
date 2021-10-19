@@ -1,4 +1,4 @@
-# Project 1 - Incrementally Understanding Sutton
+# Incrementally Understanding Sutton
 
 This report replicates the experiments described in the renowned paper ``Learning to Predict by the Methods of Temporal Differences'' by Richard Sutton (1988). Specifically, the report describes the random walk problem, discusses the theory behind solving the problem, provides pseudo-codes where required and contextualizes the similarities and differences in the results while mentioning the pitfalls and challenges faced in replicating the results.
 
