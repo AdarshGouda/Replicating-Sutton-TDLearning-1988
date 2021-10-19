@@ -1,5 +1,7 @@
 # Incrementally Understanding Sutton
 
+### REPORT: https://github.com/AdzTheDemon/Replicating-Sutton-TDLearning-1988/blob/main/Sutton1988_TD%20Learning_REPORT.pdf
+
 This report replicates the experiments described in the renowned paper ``Learning to Predict by the Methods of Temporal Differences'' by Richard Sutton (1988). Specifically, the report describes the random walk problem, discusses the theory behind solving the problem, provides pseudo-codes where required and contextualizes the similarities and differences in the results while mentioning the pitfalls and challenges faced in replicating the results.
 
 #### Jupyter Notebook file contains all the codes and plots that were used in the report.
